@@ -1,29 +1,29 @@
 <svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="414" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 12:44:43 +0000    46825 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 12:44:43 +0000     1114 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 12:44:43 +0000     8824 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 12:44:43 +0000     1076 bytes  examples/Readme.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 12:44:43 +0000      250 bytes  examples/callback-api.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 12:44:43 +0000     1842 bytes  examples/grep.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 12:44:43 +0000      181 bytes  examples/package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 12:44:43 +0000      618 bytes  examples/stream-api-pipe.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 12:44:43 +0000      479 bytes  examples/stream-api.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 12:44:43 +0000     3003 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 12:44:43 +0000     8590 bytes  readdirp.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 12:44:43 +0000     2445 bytes  stream-api.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir1/root_dir1_file1.ext1</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir1/root_dir1_file2.ext2</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir1/root_dir1_file3.ext3</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir1/root_dir1_subdir1/root1_dir1_\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 12:45:42 +0000    46825 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 12:45:42 +0000     1114 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 12:45:42 +0000     8824 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 12:45:42 +0000     1076 bytes  examples/Readme.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 12:45:42 +0000      250 bytes  examples/callback-api.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 12:45:42 +0000     1842 bytes  examples/grep.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 12:45:42 +0000      181 bytes  examples/package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 12:45:42 +0000      618 bytes  examples/stream-api-pipe.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 12:45:42 +0000      479 bytes  examples/stream-api.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 12:45:42 +0000     3003 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 12:45:42 +0000     8590 bytes  readdirp.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 12:45:42 +0000     2445 bytes  stream-api.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir1/root_dir1_file1.ext1</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir1/root_dir1_file2.ext2</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir1/root_dir1_file3.ext3</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir1/root_dir1_subdir1/root1_dir1_\</tspan>
 <tspan x="10" y="282">subdir1_file1.ext1</tspan>
-<tspan x="10" y="298"> 16.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir2/root_dir2_file1.ext1</tspan>
-<tspan x="10" y="314"> 17.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_dir2/root_dir2_file2.ext2</tspan>
-<tspan x="10" y="330"> 18.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_file1.ext1</tspan>
-<tspan x="10" y="346"> 19.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_file2.ext2</tspan>
-<tspan x="10" y="362"> 20.  2017-04-17 12:44:43 +0000        0 bytes  test/bed/root_file3.ext3</tspan>
-<tspan x="10" y="378"> 21.  2017-04-17 12:44:43 +0000     9309 bytes  test/readdirp-stream.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-17 12:44:43 +0000     9094 bytes  test/readdirp.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir2/root_dir2_file1.ext1</tspan>
+<tspan x="10" y="314"> 17.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_dir2/root_dir2_file2.ext2</tspan>
+<tspan x="10" y="330"> 18.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_file1.ext1</tspan>
+<tspan x="10" y="346"> 19.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_file2.ext2</tspan>
+<tspan x="10" y="362"> 20.  2017-04-17 12:45:42 +0000        0 bytes  test/bed/root_file3.ext3</tspan>
+<tspan x="10" y="378"> 21.  2017-04-17 12:45:42 +0000     9309 bytes  test/readdirp-stream.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-17 12:45:42 +0000     9094 bytes  test/readdirp.js</tspan>
 </text>
 </svg>
