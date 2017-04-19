@@ -1,4 +1,7 @@
-# test coverage for  [readdirp (v2.1.0)](https://github.com/thlorenz/readdirp)  [![npm package](https://img.shields.io/npm/v/npmtest-readdirp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readdirp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readdirp.svg)](https://travis-ci.org/npmtest/node-npmtest-readdirp)
+# npmtest-readdirp
+
+#### basic test coverage for  [readdirp (v2.1.0)](https://github.com/thlorenz/readdirp)  [![npm package](https://img.shields.io/npm/v/npmtest-readdirp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readdirp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readdirp.svg)](https://travis-ci.org/npmtest/node-npmtest-readdirp)
+
 #### Recursive version of fs.readdir with streaming api.
 
 [![NPM](https://nodei.co/npm/readdirp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/readdirp)
